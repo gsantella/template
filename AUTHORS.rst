@@ -1,7 +1,8 @@
 Authors
 -------
 
-* Eric (New contributor)
-* Anthony 
+* Guido (New contributor)
+* Ruby
+* Elle
 
 
